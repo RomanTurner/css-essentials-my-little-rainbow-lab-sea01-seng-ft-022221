@@ -5,11 +5,10 @@ div {
   min-width: 20em; /* the two min styles make the shape */
   min-height: 25em; /* of the divs oblong*/
   border-radius: 50%; /* this makes the normally square div round */
-
 }
 
 #red { /* this selects any elements with the red id */
-  border-top-color: #f00;
+  border-color: #f00;
 }
 #orange { /* this selects any elements with the red id */
   border-top-color: #ffa500;
